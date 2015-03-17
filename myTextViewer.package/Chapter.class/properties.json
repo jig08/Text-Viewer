@@ -1,0 +1,15 @@
+{
+	"category" : "myTextViewer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"title",
+		"content" ],
+	"name" : "Chapter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

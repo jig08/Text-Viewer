@@ -1,0 +1,14 @@
+{
+	"category" : "myTextViewer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"chapter" ],
+	"name" : "MyMenuItem",
+	"pools" : [
+		 ],
+	"super" : "MenuItemMorph",
+	"type" : "normal" }

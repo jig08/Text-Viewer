@@ -1,0 +1,17 @@
+{
+	"category" : "myTextViewer",
+	"classinstvars" : [
+		"instance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"box",
+		"txtViewer",
+		"mnuTitles",
+		"ptm" ],
+	"name" : "Main",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

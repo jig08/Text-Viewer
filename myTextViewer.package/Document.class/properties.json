@@ -1,0 +1,14 @@
+{
+	"category" : "myTextViewer",
+	"classinstvars" : [
+		"instances" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"f" ],
+	"name" : "Document",
+	"pools" : [
+		 ],
+	"super" : "Chapter",
+	"type" : "normal" }
