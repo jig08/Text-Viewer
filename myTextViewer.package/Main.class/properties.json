@@ -9,7 +9,8 @@
 		"box",
 		"txtViewer",
 		"mnuTitles",
-		"ptm" ],
+		"ptm",
+		"title" ],
 	"name" : "Main",
 	"pools" : [
 		 ],
